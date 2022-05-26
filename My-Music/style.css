@@ -1,0 +1,19 @@
+body{
+	font-family: 'Merriweather', serif;
+	background-color:lightblue;
+}
+
+h1{
+	margin: 30px;
+	font-family: 'Sacramento';
+	font-size: 60px;
+	text-align: center;
+	color: black;
+}
+.card-title{
+  color:dodgerblue;
+  font-style: italic;
+}
+.style{
+  background-color:lightblue;
+}
